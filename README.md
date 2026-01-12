@@ -4,7 +4,7 @@
 ---
 
 ## Professional Summary
-Former **Java Developer** and **Technical Recruiter** restarting a career with a focus on AI automation and non-technical Project Management.
+Former **Java Developer** and **Technical Recruiter** restarting a career with a focus on AI automation and Project Co ordinator.
 
 ## Technical Skills
 * **Automation:** n8n, Zapier
@@ -12,7 +12,7 @@ Former **Java Developer** and **Technical Recruiter** restarting a career with a
 
 ## Projects
 ### AI Project Report Assistant
-* [View Workflow Logic](./ai-assistant/README.md)
-* [Download Project Documentation](./ai-assistant/docs.pdf)
+* [View Workflow Logic](.//README.md)
+* [Download Project Documentation](./)
 
 ---
