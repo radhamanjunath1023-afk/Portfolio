@@ -12,7 +12,7 @@ Former **Java Developer** and **Technical Recruiter** restarting a career with a
 
 ## Projects
 ### AI Project Report Assistant
-* [View Workflow Logic](.//README.md)
-* [Download Project Documentation](./)
+* (./AI_Project_Report_Assistant/README.md)
+* [Project Documentation](./AI_Project_Report_Assistant)
 
 ---
