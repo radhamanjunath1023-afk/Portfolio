@@ -1,5 +1,4 @@
 
 ## N8N Workflows
-* **Automation:** n8n, Zapier
-* **Tools:** GitHub, Lovable, AI Prompting
----
+1. Email Digest
+2. Tally Form to Gmail 
