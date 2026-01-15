@@ -11,7 +11,6 @@ This project automates the manual work of researching new leads. It takes a Tall
 * **Instant Notification:** A summary email is sent via Gmail, giving the team a "head start" before their first meeting with the client.
 
 ---
-![Screenshot of Workflow](<img width="1689" height="921" alt="Screenshot 2026-01-14 at 11 59 52 PM" src="https://github.com/user-attachments/assets/43a0ec09-a3fb-424d-8345-1837fa694d7e" />)
 ## Screenshot of Workflow
 
 
