@@ -13,7 +13,8 @@ This project automates the manual work of researching new leads. It takes a Tall
 ---
 ## Screenshot of Workflow
 
+![Screenshot](https://github.com/user-attachments/assets/76394205-f758-4d7d-a906-1ba810c8fa38)
 
-<img width="1689" height="921" alt="Image" src="https://github.com/user-attachments/assets/76394205-f758-4d7d-a906-1ba810c8fa38" />
+
 
 
