@@ -30,5 +30,5 @@ To keep the output useful and professional, the AI is programmed to provide:
 ---
 
 ## ScreenShot Of Workflow
-![Screenshot](./N8N-Workflows/Screenshots/Daily%20Executive%20Briefing.png)
+![Screenshot](./Daily%20Executive%20Briefing.png)
 
