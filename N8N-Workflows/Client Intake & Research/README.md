@@ -14,7 +14,7 @@ This project automates the manual work of researching new leads. It takes a Tall
 ---
 ## Screenshot of Workflow
 
-![Screenshot](./N8N-Workflows/Client%20Intake%20&%20Research/ClientIntake_research.png)
+![Screenshot](./ClientIntake_research.png)
 
 
 
