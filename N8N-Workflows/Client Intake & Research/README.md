@@ -9,7 +9,8 @@ This project automates the manual work of researching new leads. It takes a Tall
    * It analyzes the findings to identify key opportunities or pain points.
 * **Information Formatting:** To keep things organized, the system forces the AI to present its findings in a clean, consistent structure (using an Output Parser).
 * **Instant Notification:** A summary email is sent via Gmail, giving the team a "head start" before their first meeting with the client.
-
+---
+## Workflow Demo
 ---
 ## Screenshot of Workflow
 
