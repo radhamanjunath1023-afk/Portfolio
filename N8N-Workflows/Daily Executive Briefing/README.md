@@ -1,19 +1,15 @@
 ## 🚀 Daily Executive Briefing: Automation Workflow
 
-This workflow uses AI to save time by condensing your inbox and schedule into a single, actionable daily report.
+This workflow uses AI to save time by condensing your inbox and Calender schedule into a single, actionable daily report.
 
 ### Workflow Breakdown
-1. **Morning Trigger**
-   Automatically starts every day at 7:00 AM, so the summary is ready before the workday begins.
+1. **Morning Trigger**<br>Automatically starts every day at 7:00 AM, so the summary is ready before the workday begins.
 
-3. **Data Retrieval**
-   Fetches the 20 most recent emails and upcoming calendar events for the next 7 days.
+2. **Data Retrieval**<br>Fetches the 20 most recent emails and calendar events for the day.
 
-5. **Data Merging**
-   Combines email and calendar data into a single, unified input for processing.
+3. **Data Merging**<br>Combines email and calendar data into a single, unified input for processing.
 
-7. **AI Analysis (Google Gemini)**
-   Acts as a Virtual Executive Assistant to:
+4. **AI Analysis (Google Gemini)**<br>Acts as a Virtual Executive Assistant to:
 
       * Summarize key information
 
@@ -23,8 +19,7 @@ This workflow uses AI to save time by condensing your inbox and schedule into a 
 
       * Organize content into clear sections
 
-**Output**
-Sends a clean, well-structured summary email directly to your inbox.
+**Output**<br>Sends a clean, well-structured summary email directly to your inbox.
 
 ---
 ## Workflow Demo
