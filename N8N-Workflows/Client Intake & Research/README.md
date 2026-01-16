@@ -1,14 +1,25 @@
-## 🚀 Client Intake & Research Automation
-This project automates the manual work of researching new leads. It takes a Tally form submission and turns it into a detailed "Executive Briefing" using AI.
+## Client Intake & Research Automation
 
-## 📋 How It Works (Step-by-Step)
-* **New Lead Entry:** The process starts automatically when a client fills out an intake form (via a Webhook).
-* **Data Preparation:** The system cleans and organizes the form data so the AI can understand it clearly.
-* **AI Research (Google Gemini):**
-   * The AI uses Google Search to look up the client's company and recent news.
-   * It analyzes the findings to identify key opportunities or pain points.
-* **Information Formatting:** To keep things organized, the system forces the AI to present its findings in a clean, consistent structure (using an Output Parser).
-* **Instant Notification:** A summary email is sent via Gmail, giving the team a "head start" before their first meeting with the client.
+### Problem
+Manually reviewing form submissions and researching clients is slow and inconsistent.
+
+### Workflow Breakdown
+
+1. **Trigger:**  User submits a Tally form
+
+2. **Data Intake:** Tally sends form data to an n8n Webhook
+
+3. **Input Reading:** AI Agent reads form fields (client, need, tone, context)
+
+4. **Conditional Research:** Agent uses Google Search (SerpApi) only when external research is required
+
+5. **AI Processing:** Agent acts like a virtual assistant to analyze needs and context
+
+6. **Structured Output:** Results are returned in a fixed, clean schema using a Structured Output Parser
+
+### Output 
+A structured AI-generated result including client summary, research points, and ready-to-use email content.
+
 ---
 ## Workflow Demo
 ---
