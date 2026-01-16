@@ -1,4 +1,4 @@
-## 🚀 Daily Executive Briefing: Automation Workflow
+##  Daily Executive Briefing: Automation Workflow
 
 This workflow uses AI to save time by condensing your inbox and Calender schedule into a single, actionable daily report.
 
