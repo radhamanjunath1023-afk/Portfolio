@@ -19,11 +19,14 @@ This workflow uses AI to save time by condensing your inbox and Calender schedul
 
       * Organize content into clear sections
 
-**Output**<br>Sends a clean, well-structured summary email directly to your inbox.
+### Output 
+Sends a clean, well-structured summary email directly to your inbox.
+
 ---
+
 ## Workflow Demo
 
-https://www.loom.com/share/e2abcfa1a9404c57b36f6b20164d16f6
+https://github.com/user-attachments/assets/432ffbef-3875-4f94-91a7-fda8580d0c4e
 
 ---
 ## ScreenShot Of Workflow
