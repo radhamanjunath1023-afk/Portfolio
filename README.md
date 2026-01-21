@@ -17,7 +17,6 @@ Former Java Developer restarting a career with a focus on **AI automation and Pr
 
 ### N8N Workflows
 1. [Client Intake & Research Automation](./N8N-Workflows/Client%20Intake%20&%20Research)
-
-2. [Daily Executive Briefing](https://github.com/radhamanjunath1023-afk/Radha-Manjunath-Portfolio/tree/2c5deb7de9f1403853c58e95fe4617acdc4c2f0c/N8N-Workflows/Daily%20Executive%20Briefing)
+2. [Daily Executive Briefing](./N8N-Workflows/Daily%20Executive%20Briefing)
 
 
