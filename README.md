@@ -13,7 +13,10 @@ Former Java Developer restarting a career with a focus on **AI automation and Pr
 
 ## Projects
 ### AI Project Report Assistant
-* Project Details will be updated soon.
+Project Details will be updated soon.
+  
+### Agile Coordination Hub 
+Portfolio project for project co ordination.
 
 ### Agentic AI N8N Workflows
 1. [Client Intake & Research Automation](./N8N-Workflows/Client%20Intake%20&%20Research)
