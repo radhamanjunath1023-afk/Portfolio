@@ -10,8 +10,6 @@
 | 3. Project Charter <br>  Defines project goals, scope, Agile structure, risks, and success criteria.|[Project charter link](https://radhamanjunath1023-1769396211997.atlassian.net/wiki/x/AQAi)|
 |4.Kickoff notification automation using N8N ||
 
-
-<br>
 ### Sprint 1 - Execution & Core Coordination  <br>
 
 ### Sprint 2 - Monitoring, Reporting, and Closing  <br>
