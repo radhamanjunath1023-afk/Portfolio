@@ -1,6 +1,5 @@
 ## Client Intake & Research Automation
-
-Manually reviewing form submissions and researching clients is slow and inconsistent.
+Problem statement : Manually reviewing form submissions and researching clients is slow and inconsistent.
 
 ### Workflow Diagram
 ![Workflow Diagram](./Screenshot_WD.png)
