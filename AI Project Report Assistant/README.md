@@ -8,3 +8,6 @@ The solution replaces manual reporting with consistent, insight-driven AI workfl
 ### FlowChart
 
 [Flowchart of AI Project Report Assistant](./Flowchart.png)
+
+### Project Report
+[Project Report Document](./AI_Project_Report.pdf)
