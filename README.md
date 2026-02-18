@@ -13,7 +13,7 @@ Former Java Developer restarting a career with a focus on **AI automation and Pr
 
 ## Projects
 ### AI Project Report Assistant
-Project Details will be updated soon.
+[Project Details](./AI%20Project%20Report%20Assistant/README.md)
   
 ### Agile Coordination Hub 
 Portfolio project for project co ordination. -  [Project Details](./Agile%20Coordination%20Hub) <br>
