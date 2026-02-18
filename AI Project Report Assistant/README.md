@@ -7,4 +7,4 @@ The solution replaces manual reporting with consistent, insight-driven AI workfl
 
 ### FlowChart
 
-[Flowchart](./Flowchart.png)
+[Flowchart of AI Project Report Assistant](./Flowchart.png)
