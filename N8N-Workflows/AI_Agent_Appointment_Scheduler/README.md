@@ -26,4 +26,6 @@ Google Calendar <br>
 
 ### Workflow Demo
 
-### Screenshot
+### Screenshot of Workflow
+
+[Appointment scheduling Agent](N8N-Workflows/AI_Agent_Appointment_Scheduler/Screenshot.png)
